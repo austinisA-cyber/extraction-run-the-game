@@ -1,1 +1,1 @@
-game in releases tab ----------------->>>
+game in releases tab ----------------->>> click tag
