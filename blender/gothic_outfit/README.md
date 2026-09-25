@@ -41,7 +41,7 @@ A 3D model of just the outfit from the character sheet: gothic corset top and ti
 
 * Units are metres, Z is up, and the character faces −Y (Blender's Front view). The outfit is sized for a body about 1.68 m tall.
 * The pose is an A-pose with the arms 28° from vertical, so the outfit is ready for rigging and weight transfer.
-* It is about 290k triangles with modifiers applied. The base meshes, before Solidify and Subdivision, are much lighter. Lower or remove the `Subdivision` modifier for a game-ready LOD.
+* It is about 610k triangles with modifiers applied (Subdivision level 1). The base meshes, before Solidify and Subdivision, are much lighter. Lower or remove the `Subdivision` modifier for a game-ready LOD.
 * Cloth pieces use **Solidify** and **Subdivision** modifiers, so you can adjust thickness and smoothness non-destructively.
 * Materials:
   * `GO_Leather_Black`: grain bump and clear coat.
